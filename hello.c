@@ -1,5 +1,6 @@
 #include <stdio.h>
 // Git and GitHub internship practice
+// Practicing collaboration with Git branches
 
 int main()
 {
