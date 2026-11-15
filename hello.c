@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Git and GitHub internship practice
 
 int main()
 {
